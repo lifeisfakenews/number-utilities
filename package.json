@@ -1,0 +1,24 @@
+{
+  "name": "number-utilities",
+  "version": "0.0.0",
+  "description": "Number Tools & Utilities for JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lifeisfakenews/number-utilities.git"
+  },
+  "keywords": [
+    "number",
+    "number-utilities",
+    "lifefakenews"
+  ],
+  "author": "lifeisfakenews",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lifeisfakenews/number-utilities/issues"
+  },
+  "homepage": "https://github.com/lifeisfakenews/number-utilities#readme"
+}
