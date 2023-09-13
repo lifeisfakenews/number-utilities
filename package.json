@@ -1,10 +1,10 @@
 {
   "name": "number-utilities",
-  "version": "0.0.0",
+  "version": "1.1.0",
   "description": "Number Tools & Utilities for JavaScript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/lifeisfakenews/number-utilities/issues"
   },
-  "homepage": "https://github.com/lifeisfakenews/number-utilities#readme"
+  "homepage": "https://github.com/lifeisfakenews/number-utilities#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
